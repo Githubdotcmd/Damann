@@ -1,0 +1,176 @@
+Uri: https://daman-club.in/
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\index.htm
+Content Type: text/html
+
+Uri: https://daman-club.in/comments/feed/
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://daman-club.in/feed/
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://daman-club.in/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.23.4
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://daman-club.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.23.4
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://daman-club.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.4
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://daman-club.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.23.4
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://daman-club.in/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://daman-club.in/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://daman-club.in/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.7.3
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: https://daman-club.in/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.7.3
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://daman-club.in/wp-content/uploads/elementor/css/global.css?ver=1723886544
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://daman-club.in/wp-content/uploads/elementor/css/post-7.css?ver=1723886323
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://daman-club.in/wp-content/uploads/elementor/css/post-8.css?ver=1723962035
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\wp-content\uploads\elementor\css\post-8.css
+Content Type: text/css
+
+Uri: https://daman-club.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://daman-club.in/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://daman-club.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://daman-club.in/wp-json/
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://daman-club.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdaman-club.in%2F
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://daman-club.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdaman-club.in%2F&format=xml
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://daman-club.in/wp-json/wp/v2/pages/8
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: https://daman-club.in/xmlrpc.php?rsd
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.6.1
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\roboto\v32\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\roboto\v32\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Users\Satya\Desktop\DAMAN2\daman-club.in\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
